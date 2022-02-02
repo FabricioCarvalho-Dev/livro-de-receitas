@@ -1,0 +1,3 @@
+ssh-keygen -t ed25519 -C "fabriciosouzza99@gmail.com"
+grato5094
+SHA256:TxxCRjIvGpt0w9VLFU0uyaZezMt/JWleuRYihDJkqsc fabriciosouzza99@gmail.com
